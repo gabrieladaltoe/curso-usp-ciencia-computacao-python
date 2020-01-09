@@ -48,7 +48,7 @@ Código fonte > Interpretador > Saída
 
 #### Linguagens Compiladas
 
-Código fonte > Compilador > Código objeto > Executador \(.exe, .dmg \) > Saída \(sistema operacional \)
+Código fonte > Compilador > Código objeto > Executador (.exe, .dmg ) > Saída (sistema operacional )
 
 #### Linguagens interpretadas e compiladas
 
@@ -57,3 +57,17 @@ Código fonte > Compilador > Código objeto > Executador \(.exe, .dmg \) > Saíd
 1. Antes de iniciar a execução do programa, um compilador traduz o código-fonte para byte-code
 
 2. Ao iniciar a execução do programa, o interpretador lê os bytecodes um-a-um executando os comandos correspondentes. 
+
+#### Por onde começar?
+
+- aprender a escrever códigos simples
+- exucutar pequenos programas
+- aprender novos conceitos incrementalmente
+- aumentas a sofisticação e o tamanho dos programas progressivamente
+
+#### Instalando o Python - Windows
+
+1. Visite o site: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+2. Utilize o *latest Phyton release 3.8.1*
+3. No final da página, escolha a opção *Windows X86-64 executable installer* 
+4. Instale o arquivo .exe baixado. 
