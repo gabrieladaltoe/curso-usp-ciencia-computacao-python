@@ -34,5 +34,39 @@ A seguir, alguns exemplos que foram rodados no IDLE:
         False
         >>> 
 
+#### Variáveis
 
+        x = 5 
+        // A variável x tem o valor 5.
+
+Uma variável pode mudar ao longo do código, pode mudar o seu valor. Para que o IDLE imprima o valor de uma variável, usa-se também *print(nomeDaVariavel)*.
+
+        >>> x =5
+        >>> y=10
+        >>> soma = x+y
+        >>> print(soma)
+        15
+        >>> 
+
+        >>> peso = 78
+        >>> altura = 183
+        >>> peso
+        78
+        >>> altura
+        183
+        >>> 
+
+O comando print() pode imprimir várias coisas, separado apenas por vígula. 
+
+        a = 10
+        b = 30
+
+        soma = a + b 
+
+        print('O valor total é', soma)
+
+Para que o arquivo .py rode no terminal, basta apenas digitar no terminal do Windows *py nome-do-arquivo*, ou no MacOS  *python3 nome-do-arquivo*, já dentro da pasta desejada:
+
+        C:\Users\> py somador.py
+        Resultado do que foi digitado em print().
 
